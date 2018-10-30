@@ -19,4 +19,6 @@ Here we look at various data sources and data sets.
 * Part 3: This analysis uses data made public by SFUSD on requests and waitpools for the public elementary schools in the district for 2016, 2017, and 2018. 
 
 
-Data limitations: Additional data would help ascertain how selections connect with language requirements for the bilitieracy and immersion programs. And, additional data can help assess how attendance area designation (AA) and sibling preference  designations impact assignments and enrollment.
+Data limitations: Additional data would help ascertain how selections connect with language requirements for the bilitieracy and immersion programs. And, additional data can help assess how attendance area designation (AA) and sibling preference  designations impact assignments and enrollment. Overall, this data should be considered preliminary as it is limited and contains errors. 
+
+See the resulting data visualization here: https://public.tableau.com/profile/irene.f8341#!/vizhome/SFUSDLottery-DRAFT/Dashboard
